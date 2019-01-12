@@ -1,0 +1,11 @@
+F:\gitproject\Practice4git.console\Practice4git.console\bin\Debug\netcoreapp2.1\Practice4git.console.deps.json
+F:\gitproject\Practice4git.console\Practice4git.console\bin\Debug\netcoreapp2.1\Practice4git.console.runtimeconfig.json
+F:\gitproject\Practice4git.console\Practice4git.console\bin\Debug\netcoreapp2.1\Practice4git.console.runtimeconfig.dev.json
+F:\gitproject\Practice4git.console\Practice4git.console\bin\Debug\netcoreapp2.1\Practice4git.console.dll
+F:\gitproject\Practice4git.console\Practice4git.console\bin\Debug\netcoreapp2.1\Practice4git.console.pdb
+F:\gitproject\Practice4git.console\Practice4git.console\obj\Debug\netcoreapp2.1\Practice4git.console.csprojAssemblyReference.cache
+F:\gitproject\Practice4git.console\Practice4git.console\obj\Debug\netcoreapp2.1\Practice4git.console.csproj.CoreCompileInputs.cache
+F:\gitproject\Practice4git.console\Practice4git.console\obj\Debug\netcoreapp2.1\Practice4git.console.AssemblyInfoInputs.cache
+F:\gitproject\Practice4git.console\Practice4git.console\obj\Debug\netcoreapp2.1\Practice4git.console.AssemblyInfo.cs
+F:\gitproject\Practice4git.console\Practice4git.console\obj\Debug\netcoreapp2.1\Practice4git.console.dll
+F:\gitproject\Practice4git.console\Practice4git.console\obj\Debug\netcoreapp2.1\Practice4git.console.pdb
